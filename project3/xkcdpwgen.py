@@ -4,7 +4,7 @@ import random
 
 
 #file = open('words.txt', 'r')
-file = open(r'/Users/vedrajesh/Desktop/project3/words.txt', 'r')
+file = open('words.txt', 'r')
 read = file.readlines()
 
 symb = ["~", "!", "@", "#", "$", "%", "^", "&", "*", ".", ":", ";"]
